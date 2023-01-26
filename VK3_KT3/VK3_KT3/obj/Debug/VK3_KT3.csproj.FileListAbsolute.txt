@@ -1,0 +1,22 @@
+C:\Users\eerok\source\repos\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.csproj.AssemblyReference.cache
+C:\Users\eerok\source\repos\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.csproj.SuggestedBindingRedirects.cache
+C:\Users\eerok\source\repos\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.Form1.resources
+C:\Users\eerok\source\repos\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.Properties.Resources.resources
+C:\Users\eerok\source\repos\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.csproj.GenerateResource.cache
+C:\Users\eerok\source\repos\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.csproj.CoreCompileInputs.cache
+C:\Users\eerok\source\repos\VK3_KT3\VK3_KT3\bin\Debug\VK3_KT3.exe.config
+C:\Users\eerok\source\repos\VK3_KT3\VK3_KT3\bin\Debug\VK3_KT3.exe
+C:\Users\eerok\source\repos\VK3_KT3\VK3_KT3\bin\Debug\VK3_KT3.pdb
+C:\Users\eerok\source\repos\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.exe
+C:\Users\eerok\source\repos\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.pdb
+C:\Users\eerok\OneDrive\Asiakirjat\Insinööri koulu\OHJELMOINTI 2\T3hdyttehtävät\VK3_KT3\VK3_KT3\bin\Debug\VK3_KT3.exe.config
+C:\Users\eerok\OneDrive\Asiakirjat\Insinööri koulu\OHJELMOINTI 2\T3hdyttehtävät\VK3_KT3\VK3_KT3\bin\Debug\VK3_KT3.exe
+C:\Users\eerok\OneDrive\Asiakirjat\Insinööri koulu\OHJELMOINTI 2\T3hdyttehtävät\VK3_KT3\VK3_KT3\bin\Debug\VK3_KT3.pdb
+C:\Users\eerok\OneDrive\Asiakirjat\Insinööri koulu\OHJELMOINTI 2\T3hdyttehtävät\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.csproj.AssemblyReference.cache
+C:\Users\eerok\OneDrive\Asiakirjat\Insinööri koulu\OHJELMOINTI 2\T3hdyttehtävät\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.csproj.SuggestedBindingRedirects.cache
+C:\Users\eerok\OneDrive\Asiakirjat\Insinööri koulu\OHJELMOINTI 2\T3hdyttehtävät\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.Form1.resources
+C:\Users\eerok\OneDrive\Asiakirjat\Insinööri koulu\OHJELMOINTI 2\T3hdyttehtävät\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.Properties.Resources.resources
+C:\Users\eerok\OneDrive\Asiakirjat\Insinööri koulu\OHJELMOINTI 2\T3hdyttehtävät\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.csproj.GenerateResource.cache
+C:\Users\eerok\OneDrive\Asiakirjat\Insinööri koulu\OHJELMOINTI 2\T3hdyttehtävät\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.csproj.CoreCompileInputs.cache
+C:\Users\eerok\OneDrive\Asiakirjat\Insinööri koulu\OHJELMOINTI 2\T3hdyttehtävät\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.exe
+C:\Users\eerok\OneDrive\Asiakirjat\Insinööri koulu\OHJELMOINTI 2\T3hdyttehtävät\VK3_KT3\VK3_KT3\obj\Debug\VK3_KT3.pdb
